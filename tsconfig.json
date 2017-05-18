@@ -26,7 +26,9 @@
     "noImplicitAny": false,
     "types": [
       "meteor-typings",
-      "@types/underscore"
+      "@types/underscore",
+      "@types/meteor-accounts-phone",
+      "@types/meteor-publish-composite"
     ]
   },
   "include": [
